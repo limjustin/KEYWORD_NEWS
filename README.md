@@ -25,6 +25,12 @@
 
 ----------
 
+**구동 알고리즘**
+
+![image](https://user-images.githubusercontent.com/55044278/94399637-b5b80d80-01a2-11eb-99b0-f95fd9bbb364.png)
+
+----------
+
 **프로그램 실행 화면**
 
 - **시작 화면**
