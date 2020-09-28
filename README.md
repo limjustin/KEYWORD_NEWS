@@ -15,9 +15,13 @@
 **팀원**
 
 - [polyn0(양정안)](https://github.com/polyn0)
+
 - [youngseo0526(김영서)](https://github.com/youngseo0526)
+
 - [Lee-hwansoo(이환수)](https://github.com/Lee-hwansoo)
+
 - [limjustin(임재영)](https://github.com/limjustin)
+
 - [hyejinHong0602(홍혜진)](https://github.com/hyejinHong0602)
 
 
