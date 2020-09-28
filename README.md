@@ -2,7 +2,7 @@
 
 ### 신의 환수 (2019.11 ~ 2019.12)
 
-**제 1회 SM AI 경진 대회**
+**제 1회 SM AI 경진 대회 참여 프로젝트**
 
 <img src = "https://user-images.githubusercontent.com/55044278/94391665-0f174100-0191-11eb-8fe9-97ca8e3d3a81.png" height = "200px">
 
