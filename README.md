@@ -21,6 +21,7 @@
 **사용 프로그램**
 
 - Pycharm : 파이썬 코드로 프로그램 기능 구현
+
 - Qt Designer : UI Design
 
 ----------
